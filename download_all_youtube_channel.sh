@@ -22,7 +22,7 @@ youtube-dl -f best -ciw -o "%(title)s.%(ext)s" -v <channel-url>
    # do not overwrite files
 
 # -o, --output
-    Output filename template, this example functions similarly to the old --title option
+   # Output filename template, this example functions similarly to the old --title option
 
 # -v, --verbose
    # print various debugging information
